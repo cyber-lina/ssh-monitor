@@ -161,8 +161,3 @@ stateDiagram-v2
 | ⏹️ Stop | `sudo systemctl stop ssh-monitor` |
 
 ---
-
-## 🤝 Contributing & License
-
-Issues and PRs are welcome — see the [issues page](issues).
-Released under the [MIT License](LICENSE).
